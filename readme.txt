@@ -1,1 +1,1 @@
-Here are Nazar's files on AIR's server
+A program that calculates how long you've lived in seconds,minutes etc.
